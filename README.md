@@ -1,3 +1,5 @@
 # teste repo
 
-## Editndo o arquivo
+## Editando o arquivo
+
+Um arquivo markdown neste repositório
